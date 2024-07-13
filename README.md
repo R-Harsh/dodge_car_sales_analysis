@@ -3,7 +3,7 @@
 ####
 
 <p align="center">
-  <img src="https://github.com/gentallman/stellantis_dodge_canada_sales_statistics/assets/78334851/3169fe43-ff72-43a1-92ca-1ba744fd9330" width="500">
+  <img src="https://github.com/user-attachments/assets/2e6a606a-9b3a-4f5c-87e1-950f3f2168f2" width="200">
 </p>
 
 ####
@@ -36,9 +36,9 @@
 
 ## Contact
 
-Author: Smit Rana
+Author: Harsh Patel
 
-LinkedIn: https://www.linkedin.com/in/smit98rana/
+LinkedIn: www.linkedin.com/in/harshpatel1606
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
